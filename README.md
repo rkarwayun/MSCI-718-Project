@@ -1,4 +1,4 @@
-# Market Share Prediction of Top 3 Mobile Vendors using Time Series Analysis
+# Worldwide Market Share Prediction of Top 3 Mobile Vendors
 
 ## Dashboard hosted online at: https://rproject718.shinyapps.io/try_shiny/
 
